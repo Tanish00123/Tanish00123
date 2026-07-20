@@ -15,9 +15,6 @@ I am a Computer Science and Artificial Intelligence student at IIIT Delhi<br>Cur
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanish00123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Tanish00123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
